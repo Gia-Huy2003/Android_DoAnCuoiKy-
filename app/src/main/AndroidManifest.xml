@@ -36,17 +36,21 @@
             android:exported="false" />
         <activity
             android:name=".app.activites.HomeActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".app.activites.SplashActivity"
+            android:exported="true" />
+        <activity
+            android:name=".app.activites.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".app.activites.RegisterActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
