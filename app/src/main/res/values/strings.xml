@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Ôn thi giấy phép lái xe</string>
     <string name="license_a1">Giấp phép lái xe hạng B1</string>
+    <string name="logout">Đăng xuất</string>
     <string name="license_a2">Giấp phép lái xe hạng B2</string>
     <string name="text_chose_license_A1">Bạn chọn ôn luyện giấy phép hạng B1</string>
     <string name="text_chose_license_A2">Bạn chọn ôn luyện giấy phép hạng B2</string>
